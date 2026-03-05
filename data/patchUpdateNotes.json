@@ -1,12 +1,12 @@
 {
   "metadata": {
     "created": "2025-08-08T00:31:22.662267",
-    "last_updated": "2026-03-04T17:06:17.639273",
+    "last_updated": "2026-03-05T04:07:44.682338",
     "version": "2.0.0",
     "total_patches_processed": 513,
     "total_update_notes_found": 313,
     "total_important_notes_found": 150,
-    "last_recent_update": "2026-03-04T04:04:13.636269"
+    "last_recent_update": "2026-03-05T04:07:44.682301"
   },
   "update_notes": [
     {
@@ -3553,7 +3553,7 @@
       "patch_platform": "Windows",
       "patch_version": "12.0",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:01.564227"
+      "extracted_at": "2026-03-05T04:05:36.455667"
     },
     {
       "date": "Note",
@@ -3571,7 +3571,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "12.0",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:03.048588"
+      "extracted_at": "2026-03-05T04:05:38.024368"
     },
     {
       "date": "Note",
@@ -3589,7 +3589,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "12.0",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:03.048594"
+      "extracted_at": "2026-03-05T04:05:38.024375"
     },
     {
       "date": "Important note",
@@ -3607,7 +3607,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.5",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:04.181854"
+      "extracted_at": "2026-03-05T04:05:39.411652"
     },
     {
       "date": "October 7, 2025",
@@ -3625,7 +3625,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.5",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:05.286422"
+      "extracted_at": "2026-03-05T04:05:41.047358"
     },
     {
       "date": "February 19, 2026",
@@ -3643,7 +3643,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.5",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:06.418047"
+      "extracted_at": "2026-03-05T04:05:42.154868"
     },
     {
       "date": "Note about the Web Editor application",
@@ -3661,7 +3661,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.5",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:11.647064"
+      "extracted_at": "2026-03-05T04:05:48.595334"
     },
     {
       "date": "Note",
@@ -3679,7 +3679,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.5",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:02:15.011291"
+      "extracted_at": "2026-03-05T04:05:52.098800"
     },
     {
       "date": "December 18, 2025",
@@ -3697,7 +3697,7 @@
       "patch_platform": "Windows",
       "patch_version": "11.5",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:17.216635"
+      "extracted_at": "2026-03-05T04:05:54.815020"
     },
     {
       "date": "June 12, 2025",
@@ -3715,7 +3715,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:02:18.823815"
+      "extracted_at": "2026-03-05T04:05:55.912504"
     },
     {
       "date": "December 11, 2025",
@@ -3733,7 +3733,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:02:21.940526"
+      "extracted_at": "2026-03-05T04:05:58.064161"
     },
     {
       "date": "October 7, 2025",
@@ -3751,7 +3751,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:23.032063"
+      "extracted_at": "2026-03-05T04:05:59.126938"
     },
     {
       "date": "Note",
@@ -3769,7 +3769,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:24.338591"
+      "extracted_at": "2026-03-05T04:06:00.534786"
     },
     {
       "date": "Note",
@@ -3787,7 +3787,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:24.338597"
+      "extracted_at": "2026-03-05T04:06:00.534793"
     },
     {
       "date": "Note",
@@ -3805,7 +3805,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:24.338599"
+      "extracted_at": "2026-03-05T04:06:00.534795"
     },
     {
       "date": "Note",
@@ -3823,7 +3823,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:24.338600"
+      "extracted_at": "2026-03-05T04:06:00.534797"
     },
     {
       "date": "Note",
@@ -3841,7 +3841,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:24.338602"
+      "extracted_at": "2026-03-05T04:06:00.534799"
     },
     {
       "date": "Note",
@@ -3859,7 +3859,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:26.035259"
+      "extracted_at": "2026-03-05T04:06:01.927403"
     },
     {
       "date": "Note",
@@ -3877,7 +3877,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:26.035265"
+      "extracted_at": "2026-03-05T04:06:01.927409"
     },
     {
       "date": "Note",
@@ -3895,7 +3895,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:26.035267"
+      "extracted_at": "2026-03-05T04:06:01.927411"
     },
     {
       "date": "Note",
@@ -3913,7 +3913,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.4",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:02:32.476030"
+      "extracted_at": "2026-03-05T04:06:08.298024"
     },
     {
       "date": "December 18, 2025",
@@ -3931,7 +3931,7 @@
       "patch_platform": "Windows",
       "patch_version": "11.4",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:35.030031"
+      "extracted_at": "2026-03-05T04:06:10.763081"
     },
     {
       "date": "June 12, 2025",
@@ -3949,7 +3949,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:02:37.260206"
+      "extracted_at": "2026-03-05T04:06:13.171793"
     },
     {
       "date": "December 11, 2025",
@@ -3967,7 +3967,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:02:40.702272"
+      "extracted_at": "2026-03-05T04:06:16.388943"
     },
     {
       "date": "Note",
@@ -3985,7 +3985,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:43.135719"
+      "extracted_at": "2026-03-05T04:06:18.763083"
     },
     {
       "date": "Note",
@@ -4003,7 +4003,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:43.135725"
+      "extracted_at": "2026-03-05T04:06:18.763090"
     },
     {
       "date": "Note",
@@ -4021,7 +4021,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:43.135727"
+      "extracted_at": "2026-03-05T04:06:18.763092"
     },
     {
       "date": "Note",
@@ -4039,7 +4039,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:43.135728"
+      "extracted_at": "2026-03-05T04:06:18.763094"
     },
     {
       "date": "Note",
@@ -4057,7 +4057,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:43.135730"
+      "extracted_at": "2026-03-05T04:06:18.763096"
     },
     {
       "date": "Note",
@@ -4075,7 +4075,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:44.591101"
+      "extracted_at": "2026-03-05T04:06:20.145191"
     },
     {
       "date": "Note",
@@ -4093,7 +4093,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:44.591107"
+      "extracted_at": "2026-03-05T04:06:20.145197"
     },
     {
       "date": "Note",
@@ -4111,7 +4111,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:46.046152"
+      "extracted_at": "2026-03-05T04:06:21.194367"
     },
     {
       "date": "Note",
@@ -4129,7 +4129,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:46.046158"
+      "extracted_at": "2026-03-05T04:06:21.194373"
     },
     {
       "date": "Note",
@@ -4147,7 +4147,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:47.127939"
+      "extracted_at": "2026-03-05T04:06:22.580324"
     },
     {
       "date": "Note",
@@ -4165,7 +4165,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:02:47.127944"
+      "extracted_at": "2026-03-05T04:06:22.580330"
     },
     {
       "date": "April 17, 2025",
@@ -4183,7 +4183,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:02:49.711453"
+      "extracted_at": "2026-03-05T04:06:24.970416"
     },
     {
       "date": "Note about the Web Editor application",
@@ -4201,7 +4201,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:02:59.643451"
+      "extracted_at": "2026-03-05T04:06:33.710687"
     },
     {
       "date": "Note",
@@ -4219,7 +4219,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.3",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:04.466115"
+      "extracted_at": "2026-03-05T04:06:38.258957"
     },
     {
       "date": "December 18, 2025",
@@ -4237,7 +4237,7 @@
       "patch_platform": "Windows",
       "patch_version": "11.3",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:09.246317"
+      "extracted_at": "2026-03-05T04:06:42.938150"
     },
     {
       "date": "June 12, 2025",
@@ -4255,7 +4255,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:12.935515"
+      "extracted_at": "2026-03-05T04:06:46.522045"
     },
     {
       "date": "Note",
@@ -4273,7 +4273,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:14.386460"
+      "extracted_at": "2026-03-05T04:06:47.900530"
     },
     {
       "date": "Note",
@@ -4291,7 +4291,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:14.386465"
+      "extracted_at": "2026-03-05T04:06:47.900537"
     },
     {
       "date": "Note",
@@ -4309,7 +4309,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:14.386467"
+      "extracted_at": "2026-03-05T04:06:47.900539"
     },
     {
       "date": "Note",
@@ -4327,7 +4327,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:14.386469"
+      "extracted_at": "2026-03-05T04:06:47.900541"
     },
     {
       "date": "Note",
@@ -4345,7 +4345,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:14.386471"
+      "extracted_at": "2026-03-05T04:06:47.900543"
     },
     {
       "date": "Note",
@@ -4363,7 +4363,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:15.719041"
+      "extracted_at": "2026-03-05T04:06:49.222978"
     },
     {
       "date": "Note",
@@ -4381,7 +4381,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:15.719046"
+      "extracted_at": "2026-03-05T04:06:49.222984"
     },
     {
       "date": "Note",
@@ -4399,7 +4399,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:15.719048"
+      "extracted_at": "2026-03-05T04:06:49.222986"
     },
     {
       "date": "April 17, 2025",
@@ -4417,7 +4417,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.2",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:18.309600"
+      "extracted_at": "2026-03-05T04:06:51.717292"
     },
     {
       "date": "November 7, 2024",
@@ -4435,7 +4435,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:21.276341"
+      "extracted_at": "2026-03-05T04:06:54.179437"
     },
     {
       "date": "March 21, 2024",
@@ -4453,7 +4453,7 @@
       "patch_platform": "Windows",
       "patch_version": "11.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:22.387750"
+      "extracted_at": "2026-03-05T04:06:55.235475"
     },
     {
       "date": "March 21, 2024",
@@ -4471,7 +4471,7 @@
       "patch_platform": "Windows",
       "patch_version": "11.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:22.387757"
+      "extracted_at": "2026-03-05T04:06:55.235482"
     },
     {
       "date": "February 12, 2024",
@@ -4489,7 +4489,7 @@
       "patch_platform": "Windows",
       "patch_version": "11.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:22.387760"
+      "extracted_at": "2026-03-05T04:06:55.235485"
     },
     {
       "date": "December 12, 2023",
@@ -4507,7 +4507,7 @@
       "patch_platform": "Windows",
       "patch_version": "11.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:22.387764"
+      "extracted_at": "2026-03-05T04:06:55.235489"
     },
     {
       "date": "June 12, 2025",
@@ -4525,7 +4525,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:23.512077"
+      "extracted_at": "2026-03-05T04:06:56.325356"
     },
     {
       "date": "December 11, 2025",
@@ -4543,7 +4543,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:25.733067"
+      "extracted_at": "2026-03-05T04:06:58.463397"
     },
     {
       "date": "March 21, 2024",
@@ -4561,7 +4561,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:27.230956"
+      "extracted_at": "2026-03-05T04:06:59.532317"
     },
     {
       "date": "February 12, 2024",
@@ -4579,7 +4579,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:27.230964"
+      "extracted_at": "2026-03-05T04:06:59.532325"
     },
     {
       "date": "December 12, 2023",
@@ -4597,7 +4597,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:27.230968"
+      "extracted_at": "2026-03-05T04:06:59.532329"
     },
     {
       "date": "December 7, 2023",
@@ -4615,7 +4615,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:27.230971"
+      "extracted_at": "2026-03-05T04:06:59.532332"
     },
     {
       "date": "July 6, 2023",
@@ -4633,7 +4633,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:27.230974"
+      "extracted_at": "2026-03-05T04:06:59.532336"
     },
     {
       "date": "Note",
@@ -4651,7 +4651,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:28.685032"
+      "extracted_at": "2026-03-05T04:07:00.822384"
     },
     {
       "date": "Note",
@@ -4669,7 +4669,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:28.685037"
+      "extracted_at": "2026-03-05T04:07:00.822390"
     },
     {
       "date": "Note",
@@ -4687,7 +4687,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:28.685039"
+      "extracted_at": "2026-03-05T04:07:00.822392"
     },
     {
       "date": "Note",
@@ -4705,7 +4705,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:28.685041"
+      "extracted_at": "2026-03-05T04:07:00.822394"
     },
     {
       "date": "Note",
@@ -4723,7 +4723,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:28.685042"
+      "extracted_at": "2026-03-05T04:07:00.822396"
     },
     {
       "date": "Note",
@@ -4741,7 +4741,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:29.991545"
+      "extracted_at": "2026-03-05T04:07:02.247818"
     },
     {
       "date": "Note",
@@ -4759,7 +4759,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:29.991550"
+      "extracted_at": "2026-03-05T04:07:02.247824"
     },
     {
       "date": "Note",
@@ -4777,7 +4777,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:29.991552"
+      "extracted_at": "2026-03-05T04:07:02.247826"
     },
     {
       "date": "Note",
@@ -4795,7 +4795,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:31.448820"
+      "extracted_at": "2026-03-05T04:07:03.636393"
     },
     {
       "date": "Note",
@@ -4813,7 +4813,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:31.448826"
+      "extracted_at": "2026-03-05T04:07:03.636399"
     },
     {
       "date": "Note",
@@ -4831,7 +4831,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:31.448828"
+      "extracted_at": "2026-03-05T04:07:03.636401"
     },
     {
       "date": "Note",
@@ -4849,7 +4849,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:31.448829"
+      "extracted_at": "2026-03-05T04:07:03.636403"
     },
     {
       "date": "Note",
@@ -4867,7 +4867,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:31.448831"
+      "extracted_at": "2026-03-05T04:07:03.636405"
     },
     {
       "date": "Note",
@@ -4885,7 +4885,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:31.448833"
+      "extracted_at": "2026-03-05T04:07:03.636407"
     },
     {
       "date": "Note",
@@ -4903,7 +4903,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:32.693944"
+      "extracted_at": "2026-03-05T04:07:04.820106"
     },
     {
       "date": "April 17, 2025",
@@ -4921,7 +4921,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:35.291817"
+      "extracted_at": "2026-03-05T04:07:07.233543"
     },
     {
       "date": "Note",
@@ -4939,7 +4939,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "11.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:41.754263"
+      "extracted_at": "2026-03-05T04:07:13.317112"
     },
     {
       "date": "March 21, 2024",
@@ -4957,7 +4957,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:45.056202"
+      "extracted_at": "2026-03-05T04:07:16.828439"
     },
     {
       "date": "March 21, 2024",
@@ -4975,7 +4975,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:45.056208"
+      "extracted_at": "2026-03-05T04:07:16.828445"
     },
     {
       "date": "February 12, 2024",
@@ -4993,7 +4993,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:45.056211"
+      "extracted_at": "2026-03-05T04:07:16.828449"
     },
     {
       "date": "December 12, 2023",
@@ -5011,7 +5011,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:45.056215"
+      "extracted_at": "2026-03-05T04:07:16.828453"
     },
     {
       "date": "June 12, 2025",
@@ -5029,7 +5029,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:46.190869"
+      "extracted_at": "2026-03-05T04:07:17.924498"
     },
     {
       "date": "December 11, 2025",
@@ -5047,7 +5047,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:47.310990"
+      "extracted_at": "2026-03-05T04:07:19.029380"
     },
     {
       "date": "March 21, 2024",
@@ -5065,7 +5065,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:49.518167"
+      "extracted_at": "2026-03-05T04:07:21.153607"
     },
     {
       "date": "February 12, 2024",
@@ -5083,7 +5083,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:49.518175"
+      "extracted_at": "2026-03-05T04:07:21.153612"
     },
     {
       "date": "December 12, 2023",
@@ -5101,7 +5101,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:49.518178"
+      "extracted_at": "2026-03-05T04:07:21.153614"
     },
     {
       "date": "December 7, 2023",
@@ -5119,7 +5119,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:49.518181"
+      "extracted_at": "2026-03-05T04:07:21.153616"
     },
     {
       "date": "July 6, 2023",
@@ -5137,7 +5137,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:49.518184"
+      "extracted_at": "2026-03-05T04:07:21.153618"
     },
     {
       "date": "Note",
@@ -5155,7 +5155,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:50.975954"
+      "extracted_at": "2026-03-05T04:07:22.451498"
     },
     {
       "date": "Note",
@@ -5173,7 +5173,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:50.975960"
+      "extracted_at": "2026-03-05T04:07:22.451504"
     },
     {
       "date": "Note",
@@ -5191,7 +5191,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:50.975962"
+      "extracted_at": "2026-03-05T04:07:22.451506"
     },
     {
       "date": "Note",
@@ -5209,7 +5209,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:50.975964"
+      "extracted_at": "2026-03-05T04:07:22.451508"
     },
     {
       "date": "Note",
@@ -5227,7 +5227,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "false",
-      "extracted_at": "2026-03-04T04:03:50.975966"
+      "extracted_at": "2026-03-05T04:07:22.451510"
     },
     {
       "date": "April 1, 2024",
@@ -5245,7 +5245,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:52.362304"
+      "extracted_at": "2026-03-05T04:07:23.530637"
     },
     {
       "date": "Note",
@@ -5263,7 +5263,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:53.570890"
+      "extracted_at": "2026-03-05T04:07:24.698564"
     },
     {
       "date": "Important note",
@@ -5281,7 +5281,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:54.991382"
+      "extracted_at": "2026-03-05T04:07:26.204862"
     },
     {
       "date": "April 17, 2025",
@@ -5299,7 +5299,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:03:56.103872"
+      "extracted_at": "2026-03-05T04:07:27.291389"
     },
     {
       "date": "August 4, 2025",
@@ -5317,7 +5317,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:03:57.240653"
+      "extracted_at": "2026-03-05T04:07:28.715868"
     },
     {
       "date": "Note",
@@ -5335,7 +5335,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.9.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:01.148993"
+      "extracted_at": "2026-03-05T04:07:32.817971"
     },
     {
       "date": "April 18, 2024",
@@ -5353,7 +5353,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.8.2",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:04.108047"
+      "extracted_at": "2026-03-05T04:07:35.279468"
     },
     {
       "date": "April 10, 2024",
@@ -5371,7 +5371,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.8.2",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:04.108054"
+      "extracted_at": "2026-03-05T04:07:35.279474"
     },
     {
       "date": "August 21, 2024",
@@ -5389,7 +5389,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.8.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:06.708102"
+      "extracted_at": "2026-03-05T04:07:37.616245"
     },
     {
       "date": "March 21, 2024",
@@ -5407,7 +5407,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.8.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:09.197098"
+      "extracted_at": "2026-03-05T04:07:39.956082"
     },
     {
       "date": "March 21, 2024",
@@ -5425,7 +5425,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.8.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:09.197104"
+      "extracted_at": "2026-03-05T04:07:39.956089"
     },
     {
       "date": "February 12, 2024",
@@ -5443,7 +5443,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.8.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:09.197106"
+      "extracted_at": "2026-03-05T04:07:39.956093"
     },
     {
       "date": "December 12, 2023",
@@ -5461,7 +5461,7 @@
       "patch_platform": "Windows",
       "patch_version": "10.8.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:09.197108"
+      "extracted_at": "2026-03-05T04:07:39.956096"
     },
     {
       "date": "January 14, 2025",
@@ -5479,7 +5479,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:10.328599"
+      "extracted_at": "2026-03-05T04:07:41.445982"
     },
     {
       "date": "Note",
@@ -5497,7 +5497,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:10.328604"
+      "extracted_at": "2026-03-05T04:07:41.445987"
     },
     {
       "date": "Note",
@@ -5515,7 +5515,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:10.328606"
+      "extracted_at": "2026-03-05T04:07:41.445989"
     },
     {
       "date": "Note",
@@ -5533,7 +5533,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:10.328608"
+      "extracted_at": "2026-03-05T04:07:41.445991"
     },
     {
       "date": "March 21, 2024",
@@ -5551,7 +5551,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:11.425399"
+      "extracted_at": "2026-03-05T04:07:42.507055"
     },
     {
       "date": "February 12, 2024",
@@ -5569,7 +5569,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:11.425407"
+      "extracted_at": "2026-03-05T04:07:42.507060"
     },
     {
       "date": "December 12, 2023",
@@ -5587,7 +5587,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:11.425411"
+      "extracted_at": "2026-03-05T04:07:42.507062"
     },
     {
       "date": "December 7, 2023",
@@ -5605,7 +5605,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:11.425414"
+      "extracted_at": "2026-03-05T04:07:42.507064"
     },
     {
       "date": "July 6, 2023",
@@ -5623,7 +5623,7 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "security",
-      "extracted_at": "2026-03-04T04:04:11.425417"
+      "extracted_at": "2026-03-05T04:07:42.507066"
     },
     {
       "date": "Note",
@@ -5641,522 +5641,522 @@
       "patch_platform": "Linux,Windows",
       "patch_version": "10.8.1",
       "patch_critical": "",
-      "extracted_at": "2026-03-04T04:04:12.634948"
+      "extracted_at": "2026-03-05T04:07:43.673029"
     }
   ],
   "processed_patches": [
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-feature-service-sync-general-patch-7598",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-hosted-services-restart-patch",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-notebook-server-11-2-upgrade-patch",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-10-8-2-general-component-updates-patch",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-geocoding-service-performance-patch-7804",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-offline-utility-network-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-4-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-custom-roles-with-administrative-p-7858",
-    "https://support.esri.com/en/download/7687",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7976",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8014",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-scene-service-performance-patch-7731",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-desktop-engine-server-raster-to-polygon-and-7493",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-map-and-feature-service-security-2023-update-1-patch",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-store-10-6-1-security-update-1-patch-7670",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-utility-network-patch-7657",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-7-1-csv-and-excel-file-publishing-patc-7786",
-    "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-11-3-utility-network-and-data-management-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-parcel-fabric-build-extent-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-home-application-display-patch-7615",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-export-from-hosted-layer-to-file-g-7647",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-utility-network-and-data-management-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-arcfm-join-patch-7601",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-8-1-patch-5-windows-linux-8055",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-interoperability-publishing-patch-7573",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-tls-patch-7666",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-workflow-manager-server-11-1-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-offline-software-authorization-patch",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-10-9-1-utility-network-and-data-management-patch-8",
-    "http://support.esri.com/download/7486",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-10-8-1-spatial-analyst-arc-7866",
-    "https://support.esri.com/en/download/7565",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-server-manager-upload-patch-7449",
-    "https://support.esri.com/en/download/7736",
-    "https://support.esri.com/en/download/7769",
-    "https://support.esri.com/en/download/7622",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-general-geocoding-patch-7741",
-    "http://support.esri.com/download/7524",
-    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-security-2021-update-1-patch-7899",
-    "http://support.esri.com/download/7488",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-geoevent-server-10-8-patch-1-7794",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-1-utility-network-and-data-management-patch-5",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-mission-server-10-8-1-message-management-patch-7826",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-2-production-mapping-topographic-production-service-patch",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-workflow-manager-server-10-9-patch-1-server-web-7950",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-notebook-server-security-patch-7901",
-    "https://support.esri.com/en/download/7742",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-sync-upload-patch-7503",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-store-10-6-custom-spatial-reference-patch-7613",
-    "https://support.esri.com/en/download/7767",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-11-0-maritime-server-extension-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-9-1-utility-network-and-data-management-patch-5",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-server-10-7-mosaic-dataset-compatibility-7705",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-raster-patch-7396",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-11-0-workflow-manager-web-app-patch-8060",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-print-service-patch",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-jpeg-nodata-patch-7641",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-1-desktop-engine-server-oracle-critical-iss-7548",
-    "https://support.esri.com/en/download/7640",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-12-0-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-2-map-and-print-service-patch",
-    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-1-patch-1-desktop-s-7831",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-10-8-2-java-component-updates-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-8-1-patch-4-windows-linux-8000",
-    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-10-desktop-8007",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-runtime-sdk-for-qt-100-11-ios-app-store-patch-7900",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoenrichment-server-log4j-patch-8026",
-    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-4-desktop-s-7871",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7984",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-utility-network-and-data-management-patch-1",
-    "http://support.esri.com/download/7506",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-10-7-1-concurrent-use-license-unavailabi-7788",
-    "https://support.esri.com/en/download/7706",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-geoevent-server-10-8-1-patch-3-windows-linux-7934",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-5-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-server-linux-wms-getcapabilities-patc-2222",
-    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-security-2020-update-1-patch-7777",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-linux-orthomapping-patch-7699",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-7-1-spatial-analyst-pat-7764",
-    "https://support.esri.com/en/download/7557",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-postgresql-st-geometry-patch-7923",
-    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-security-2019-update-1-patch-7701",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-10-9-1-maritime-server-extension-update-2-8041",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-security-2018-update-2-patch-7661",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-4-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-3-1-high-availability-content-dire-2248",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-stale-query-patch-8028",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-date-fields-performance-improvement-patch-7896",
-    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-10-7-pop-up-selected-feature-display-7711",
-    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-11-desktop-8033",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-desktop-engine-server-sql-server-compress-patch-7545",
-    "https://support.esri.com/en/download/7604",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-server-sync-with-related-records-patch-2196",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-parcel-fabric-performance-patch-7816",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-data-store-11-1-highly-available-relational-data-store-patch",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-1-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-2",
-    "https://support.esri.com/en/download/7716",
-    "https://support.esri.com/en/download/7530",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-11-0-deep-learning-studio-patch-8078",
-    "http://support.esri.com/downloads/7480",
-    "https://support.esri.com/en/download/7681",
-    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-7-desktop-s-7928",
-    "https://support.esri.com/en/download/7766",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-video-server-11-3-upgrade-and-reliability-patch",
-    "http://support.esri.com/download/7480",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-feature-service-performance-patch-7839",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-2-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-6-1-desktop-engine-server-buffering-degenerat-7636",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-security-2018-update-3-patch-7660",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7985",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7972",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-10-6-1-enterprise-sites-patch-7658",
-    "https://support.esri.com/en/download/7534",
-    "https://support.esri.com/en/download/7789",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-1-setup-program-patch-7956",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-11-0-deep-learning-patch-8079",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-feature-services-security-patch",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-10-9-1-durability-enhancement-patch-8057",
-    "http://support.esri.com/en/downloads/patches-servicepacks/view/productid/66/metaid/2271",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-6-1-spatial-analyst-pat-7685",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-security-2021-update-1-patch-7879",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8004",
-    "https://support.esri.com/en/download/7751",
-    "https://support.esri.com/en/download/7531",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-3-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-1-production-mapping-topographic-production-service-patch",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-4-1-manager-sharing-properties-patch-7500",
-    "https://support.esri.com/en/download/7614",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-text-drawing-patch-7719",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-10-5-1-parcel-editor-general-maintenance-7597",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-migrate-storage-for-or-2194",
-    "https://support.esri.com/en/download/7714",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-dialog-initialization-performance-patch-7678",
-    "https://support.esri.com/en/download/8001",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-security-2019-update-1-patch-7700",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-map-services-drawing-patch-7756",
-    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-9-desktop-s-7968",
-    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-5-desktop-s-7887",
-    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-security-2019-update-2-patch-7749",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-license-manager-2019-0-license-availability-disp-7744",
-    "http://support.esri.com/en/download/7562",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-location-referencing-10-8-1-patch-4-desktop-server-for-arcgis-roads-and-highways-8098",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-7-1-spatial-analyst-com-7828",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-1-desktop-engine-server-sql-server-permissi-7529",
-    "https://support.esri.com/en/download/7772",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-workflow-manager-server-11-0-patch-2-8106",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-1-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-geoanalytics-and-geoevent-server-pat-7476",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-geocoding-gener-7382",
-    "https://support.esri.com/en/download/7564",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-server-sdlic-rollover-licensing-patch-7883",
-    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-distributed-collaboration-sharin-7787",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7966",
-    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-4-import-arcgis-pro-entitlements-p-2281",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-server-site-creation-failure-and-servic-2190",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-buffer-wizard-patch-7649",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-10-8-2-java-component-updates-patch",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-geoprocessing-service-orphaned-pro-7840",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-map-services-definition-query-patch",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-runtime-local-server-sdk-microsoft-r-windows-r-j-7729",
-    "https://support.esri.com/en/download/8003",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-geocode-suggestions-leak-patch-7732",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8009",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8010",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-utility-network-and-data-managemen-8045",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-10-9-1-maritime-server-extension-update-4-8099",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-sql-server-qual-7422",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-utility-network-patch-1-7813",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7974",
-    "http://support.esri.com/download/7460",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-print-service-and-text-element-pat-7868",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-3-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-publishing-patch-7397",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-engine-server-geocoding-gener-2252",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7977",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-knowledge-temporal-types-patch",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-map-and-feature-service-security-patch-7873",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8012",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-5-1-desktop-engine-server-spatial-analyst-zon-7582",
-    "https://support.esri.com/en/download/7667",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-7-1-optimize-service-deletion-patch-7801",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-7-network-analyst-funct-7696",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-desktop-engine-server-pdf-export-for-non-us-2183",
-    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-7-1-enterprise-sites-2-patch-7797",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-mission-manager-location-services-and-projection-patch",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-4-1-for-desktop-engine-server-mosaic-dataset-7467",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-geometric-network-geop-2223",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-enterprise-sites-security-2025-update-1-patch",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-hosted-feature-service-editing-patch",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-4-1-desktop-server-nitf-and-ncdrd-quality-pat-7611",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-for-server-restart-patch-2299",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-insights-2020-1-update-patch-7796",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-temp-grid-pathname-patch-7893",
-    "http://support.esri.com/download/7487",
-    "http://support.esri.com/download/7482",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8013",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-stream-link-pat-7428",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-web-adaptor-iis-stability-patch",
-    "https://support.esri.com/en/download/7688",
-    "https://support.esri.com/en/download/7587",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-security-2018-update-1-patch-7584",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-1-patch-3-windows-linux-8061",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-hosted-feature-service-uncompressed-7924",
-    "http://support.esri.com/en/download/7528",
-    "https://support.esri.com/en/download/7757",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-1-patch-2-windows-linux-8037",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-data-store-where-clause-with-non-english-ch-2180",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-business-analyst-desktop-address-coder-patch-7739",
-    "https://support.esri.com/en/download/7608",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-business-analyst-desktop-historical-traffic-sett-7559",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-business-analyst-desktop-address-coder-for-us-20-8062",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-engine-server-spatial-statistic-2166",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7965",
-    "https://support.esri.com/en/download/7650",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7983",
-    "http://support.esri.com/download/7399",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-insights-2020-2-update-patch-7841",
-    "http://support.esri.com/download/7477",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-10-8-1-edit-session-with-custom-extensio-8087",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-general-raster-security-pa-7869",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-production-mapping-topographic-production-service-patch",
-    "http://support.esri.com/download/7424",
-    "http://support.esri.com/download/7388",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-10-9-1-branch-versioning-sap-hana-general-patch",
-    "https://support.esri.com/en-us/patches-updates/2018/cityengine-get-map-data-for-open-street-map-patch-7616",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-geoprocessing-service-startup-patch-7576",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-raster-analytics-patch-7730",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-10-9-1-general-branch-versioning-reconcile-patch",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-5-utility-network-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-11-0-maritime-server-extension-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-server-legacy-commercial-sate-2268",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-4-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-server-10-6-1-raster-patch-7653",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-11-3-distributed-collaboration-quality-patch",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-mission-server-11-1-offline-software-authorization-patch",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-desktop-10-8-2-enhanced-compression-wavelet-ecw-7991",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-10-9-1-maritime-server-extension-update-1-8021",
-    "http://support.esri.com/download/7401",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-server-raster-type-patch-2254",
-    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-10-7-1-enterprise-sites-patch-7759",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-11-3-map-viewer-http-2-patch",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-1-geoanalytics-server-patch-7519",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-data-store-11-1-knowledge-graph-patch-8103",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-data-reviewer-10-8-1-patch-1-for-desktop-server-7856",
-    "https://support.esri.com/en/download/7535",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-11-2-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-6-1-spatial-analyst-com-7800",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-support-for-oracle-7675",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-6-7958",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-10-6-1-desktop-server-nitf-and-ncdrd-quality-pat-7703",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-feature-service-shared-templates-patch",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-image-service-patch-7842",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-geoenrichment-server-upgrade-preparation-patch-7761",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-1-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-security-2017-update-1-patch-7463",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-location-referencing-10-8-1-patch-2-desktop-serv-7941",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-vector-tile-layers-patch-7648",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-restore-reliability-patch-7927",
-    "http://support.esri.com/download/7461",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7975",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoenrichment-server-log4j-patch-8025",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-geoprocessing-servi-7639",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-10-6-1-general-update-patch-7763",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-2-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-background-geoprocessing-64-bit-a-7579",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-1-desktop-engine-server-spatial-analyst-int-7551",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-print-service-patch-7834",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-2-patch",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-security-update-for-flexera-cve-2016-10395-7521",
-    "https://support.esri.com/en/download/7596",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-insights-security-patch-for-arcgis-insights-2022-1-8104",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-map-service-and-custom-data-feeds-patch",
-    "https://support.esri.com/en-us/patches-updates/2017/portal-for-arcgis-10-5-large-membership-performance-pat-7501",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-6-1-high-availability-and-disaster-rec-7821",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-10-8-1-java-component-updates-patch",
-    "https://support.esri.com/en/download/7827",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-web-adaptor-iis-11-1-reliability-update-2-patch",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-location-referencing-10-8-1-patch-3-desktop-serv-7996",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-1-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-raster-analysis-amazon-s3-storage-pa-7483",
-    "https://support.esri.com/en/download/7793",
-    "http://support.esri.com/download/7423",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-1-patch",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-2-data-reviewer-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-3-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-3-patch",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-business-analyst-desktop-10-8-1-dataset-folder-n-7853",
-    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-6-desktop-s-7908",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoenrichment-server-log4j-patch-7999",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-server-object-interceptor-soi-userna-7499",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-8-1-utility-network-patch-7-8031",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-postgresql-performa-7664",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-security-2025-update-1",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-10-6-1-exporting-data-from-a-layer-patch-7683",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-5-7933",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-geoevent-extension-patch-1-7388",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-support-for-oracle-19c-pat-7734",
-    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-1-arcgis-workforce-general-patch-7825",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-8-1-utility-network-patch-10",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-10-9-1-maritime-server-extension-update-3-8076",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-desktop-engine-server-geodesic-buffer-metho-2152",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-service-publishing-patch-7464",
-    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-enterprise-sites-patch-1-7805",
-    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-10-6-1-enterprise-sites-2-patch-7684",
-    "https://support.esri.com/en/download/7674",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-4-7918",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-10-9-1-maritime-server-extension-update-5",
-    "https://support.esri.com/en-us/patches-updates/2017/portal-for-arcgis-10-5-1-custom-basemap-extent-patch-7518",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-8-1-utility-network-patch-9-8090",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-wms-services-display-patch-8108",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-spatial-analysis-failure-on-localized-6425",
-    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-1-patch-2-desktop-s-7843",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-custom-output-fields-for-geocoding-7704",
-    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-patch-1-desktop-ser-7790",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-server-worldview-3-update-patch-2227",
-    "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-11-5-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-2",
-    "https://support.esri.com/en/download/7712",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-portal-for-arcgis-arcgis-data-store-c-7381",
-    "http://support.esri.com/en/download/7547",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8008",
-    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-12-desktop-8056",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-server-10-7-1-belge-lambert-1972-equival-7829",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-utility-network-and-data-managemen-8077",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-nitf-and-ncdrd-quality-patch-7762",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-web-adaptor-iis-10-9-1-large-offline-map-areas-patch",
-    "https://support.esri.com/en-us/patches-updates/2026/arcgis-workflow-manager-server-11-3-patch-3",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-4-print-service-vector-tile-labels-patch",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-geoanalytics-with-oracle-feature-s-7588",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-pre-planned-routes-patch-7659",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-parcel-fabric-build-extent-patch",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-11-0-site-creation-and-upgrade-patch-8084",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-7981",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-security-2021-update-2-patch-7937",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-geoevent-server-10-6-1-patch-1-7689",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7982",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-1-patch-1-windows-linux-7998",
-    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-home-application-upload-patch-7443",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-security-2016-update-2-patch-6418",
-    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-security-2016-update-2-patch-7392",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-for-server-for-microsoft-azure-patch-6415",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-sql-server-branch-versioning-patch-7919",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-nadcon-transformations-6427",
-    "https://support.esri.com/en-us/patches-updates/2017/portal-for-arcgis-10-3-1-security-2017-update-3-patch-7470",
-    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-10-9-mission-manager-patch-1-7907",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-8-1-utility-network-patch-11",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-10-9-1-patch-5",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-directory-traversal-vulnerability-patch-8063",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-business-analyst-desktop-10-5-1-mpi-cex-custom-d-7567",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-character-marker-symbol-patch-7600",
-    "https://support.esri.com/en-us/patches-updates/2024/portal-for-arcgis-security-2024-update-2-patch",
-    "https://support.esri.com/en-us/patches-updates/2024/portal-for-arcgis-enterprise-sites-gallery-patch",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-4-spatial-analysis-patch",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-file-geodatabase-sql-perfo-7863",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-insights-for-arcgis-create-buffer-7758",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-2-knowledge-entity-and-relationship-types-patch",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-security-2025-update-2-patch",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8016",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-9-1-utility-network-and-data-management-patch-4-8089",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-for-linux-microsoft-odbc-driver-17-connec-7642",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-workflow-manager-server-11-0-patch-1-8066",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-1-utility-network-and-data-management-patch-3",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-data-reviewer-10-8-1-patch-2-for-desktop-server-7889",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-gml-wfs-patch-8096",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-privilege-escalation-security-patch-7668",
-    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-8-desktop-s-7945",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-1-machine-rename-patch-7952",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-11-1-maritime-server-extension-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-microsoft-r-windows-r-june-7726",
-    "http://support.esri.com/download/6431",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7971",
-    "http://support.esri.com/en/download/7526",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-branch-versioning-licensing-patch",
-    "https://support.esri.com/en/download/7623",
-    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-9-maritime-server-ext-7925",
-    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-1-mission-manager-message-manage-7833",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-layer-definition-query-patch-7489",
-    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-11-5-web-applications-patch",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-improper-access-control-security-patch-7606",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-annotation-layer-performance-improvement-7926",
-    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-3-high-availability-patch-2167",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-utility-network-and-data-managemen-7990",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-10-6-ecw-patch-7583",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-vehicle-routing-problem-geometry-p-7992",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-add-attachments-in-collector-for-a-7679",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-3",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-engine-server-spatial-statistic-2192",
-    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-operations-dashboard-security-patch-7865",
-    "http://support.esri.com/download/7481",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-data-store-10-9-reliability-enhancement-patch-7902",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-5-calculate-field-patch",
-    "https://support.esri.com/en/download/7571",
-    "https://support.esri.com/en/7629",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-8-1-utility-network-patch-8-8072",
-    "http://support.esri.com/en/download/7560",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-11-2-maritime-server-extension-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2023/portal-for-arcgis-validation-and-repair",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8015",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-server-nitf-and-ncdrd-quality-p-2200",
-    "http://support.esri.com/en/download/7525",
-    "http://support.esri.com/download/7523",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-9-1-utility-network-and-data-management-patch-6",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-10-9-1-utility-network-and-data-management-patch-7",
     "https://support.esri.com/en-us/patches-updates/2017/portal-for-arcgis-security-2017-update-1-patch-7465",
-    "https://support.esri.com/en/download/7768",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7980",
-    "https://support.esri.com/en-us/patches-updates/2026/arcgis-12-0-maritime-server-extension-patch-1",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-server-10-6-1-importing-raster-to-enterp-7673",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-patch-1-windows-linux-7997",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-security-2018-update-2-patch-7637",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-server-map-cache-consumption-patch-2197",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-printing-and-script-tool-patch-7577",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-map-and-print-service-patch-8059",
-    "https://support.esri.com/en/ownload7562",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-7-network-analyst-vrp-s-7692",
-    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-10-8-1-indoors-patch-2-7906",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-11-1-patch-4",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-print-service-vector-tile-patch-7905",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-6-1-patch-3-8002",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-security-2022-update-1-patch-8043",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-4-1-for-desktop-engine-server-raster-patch-2-7502",
+    "http://support.esri.com/download/7506",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-workflow-manager-server-10-9-1-patch-for-log4j-8020",
+    "https://support.esri.com/en/download/7766",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-geoevent-server-10-8-patch-1-7794",
     "https://support.esri.com/en/download/7644",
-    "https://support.esri.com/en/download/7803",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-business-analyst-desktop-tls-patch-7676",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8017",
-    "http://support.esri.com/download/7510",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-7-1-azure-sql-database-7798",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-branch-versioning-duplicate-objectids-pat-7697",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-desktop-engine-server-geocoding-general-mai-2186",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-geoenrichment-server-2019-usa-data-update-patch-7737",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-file-deletion-and-loo-7626",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-for-server-10-3-1-security-2017-update-3-patch-7478",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-server-manager-upload-patch-7449",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-vector-tile-layers-patch-7648",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-6-1-high-availability-and-disaster-rec-7821",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-server-nitf-and-ncdrd-quality-p-2200",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-3-7884",
+    "https://support.esri.com/en-us/patches-updates/2017/portal-for-arcgis-10-5-large-membership-performance-pat-7501",
+    "http://support.esri.com/en/download/7547",
+    "http://support.esri.com/download/7460",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-9-1-utility-network-and-data-management-patch-6",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-map-services-drawing-patch-7756",
+    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-distributed-collaboration-sharin-7787",
+    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-10-6-1-enterprise-sites-2-patch-7684",
     "https://support.esri.com/en-us/patches-updates/2020/arcgis-geoenrichment-server-10-8-1-patch-1-7835",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-10-6-1-parcel-fabric-layer-patch-7682",
-    "https://support.esri.com/en-us/patches-updates/2023/portal-for-arcgis-enterprise-sites-security-patch",
-    "http://support.esri.com/en/download7527",
-    "https://support.esri.com/en/download/7643",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-1-utility-network-and-data-management-patch-4",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-security-2020-update-1-patch-7775",
-    "https://support.esri.com/en/download/7585",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-map-service-security-2022-update-1-patch-8042",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-support-for-oracle-7675",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-date-fields-performance-improvement-patch-7896",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-parcel-fabric-build-extent-patch",
+    "https://support.esri.com/en-us/patches-updates/2018/cityengine-get-map-data-for-open-street-map-patch-7616",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-2-map-and-print-service-patch",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-desktop-10-8-2-image-display-for-mosaic-datasets-8019",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-3",
+    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-1-patch-3-desktop-s-7854",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-for-server-for-microsoft-azure-patch-6415",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-security-2017-update-1-patch-7463",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-insights-2020-2-update-patch-7841",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-security-2025-update-1",
+    "http://support.esri.com/en/download/7528",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-data-store-10-9-postgresql-st-geometry-patch-7922",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-3-patch-2",
+    "https://support.esri.com/en/download/8003",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-oracle-data-type-patch-7785",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-5-1-desktop-server-nitf-and-ncdrd-quality-pat-7605",
+    "http://support.esri.com/download/7509",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-business-analyst-desktop-address-coder-for-us-20-8062",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-portal-for-arcgis-arcgis-data-store-c-7381",
+    "http://support.esri.com/en/download/7525",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-1-patch-2-windows-linux-8037",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8008",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7980",
+    "https://support.esri.com/en/download/7557",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-custom-output-fields-for-geocoding-p-7693",
     "https://support.esri.com/en/download/7672",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-desktop-engine-server-oracle-insufficient-p-7504",
-    "https://support.esri.com/en-us/patches-updates/2026/portal-for-arcgis-11-5-mission-manager-tasking-and-template-patch",
-    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-patch-2-desktop-ser-7802",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-workflow-manager-server-10-9-1-patch-2-8053",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-branch-versioning-performance-and-consist-7818",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-csv-and-excel-file-publishing-patc-7738",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-orphaned-processes-patch-7916",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-print-service-secured-layer-patch-7694",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-utility-network-update-subnetwork-pa-7795",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-video-server-11-4-import-and-export-site-patch",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-geoevent-server-10-9-1-patch-4-8100",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-desktop-10-8-2-spatial-analyst-slope-tool-patch-8035",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-store-10-6-spatial-reference-patch-7581",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-server-site-creation-failure-and-servic-2190",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-workflow-manager-server-10-9-1-patch-3-8105",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-10-8-1-general-component-updates-patch",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-desktop-engine-server-geodesic-buffer-metho-2152",
     "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-8-1-spatial-analyst-extraction-tools-p-8036",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-server-raster-type-cumulative-2284",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-8-sql-server-enterprise-7784",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-10-8-1-temp-grid-pathname-7892",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-insights-2020-3-update-patch-7850",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-file-geodatabase-sql-perfo-7863",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-print-service-secured-layer-patch-7694",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-geometric-network-geop-2223",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-for-server-restart-patch-2299",
+    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-12-desktop-8056",
+    "https://support.esri.com/en/download/7571",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-printing-and-script-tool-patch-7577",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-published-script-to-7665",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-workflow-manager-server-11-1-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-notebook-server-11-2-upgrade-patch",
+    "https://support.esri.com/en-us/patches-updates/2024/portal-for-arcgis-enterprise-sites-gallery-patch",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-1-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-engine-server-geocoding-gener-2252",
+    "https://support.esri.com/en/download/7534",
+    "http://support.esri.com/download/7461",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-general-raster-security-pa-7869",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-7-1-spatial-analyst-pat-7764",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-engine-server-spatial-statistic-2166",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7966",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-10-9-1-patch-5",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-feature-service-shared-templates-patch",
+    "https://support.esri.com/en/download/7565",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-server-linux-wms-getcapabilities-patc-2222",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-utility-network-and-data-managemen-8077",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-workflow-manager-server-10-9-patch-1-server-web-7950",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-data-store-where-clause-with-non-english-ch-2180",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7969",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-security-2018-update-2-patch-7637",
+    "http://support.esri.com/download/7486",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-nadcon-transformations-6427",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-mission-server-10-8-1-message-management-patch-7826",
+    "https://support.esri.com/en-us/patches-updates/2023/portal-for-arcgis-validation-and-repair",
+    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-4-import-arcgis-pro-entitlements-p-2281",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-10-8-1-spatial-analyst-pat-7951",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-utility-network-patch-2-7849",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-1-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-desktop-engine-server-oracle-insufficient-p-7504",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-raster-analysis-amazon-s3-storage-pa-7483",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-7-1-optimize-service-deletion-patch-7801",
+    "https://support.esri.com/en/download/7643",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8014",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-custom-output-fields-for-geocoding-7704",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-publishing-patch-7397",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-7-network-analyst-funct-7696",
+    "https://support.esri.com/en/download/8001",
+    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-security-2021-update-1-patch-7899",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-1-utility-network-and-data-management-patch-5",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-4-1-desktop-server-nitf-and-ncdrd-quality-pat-7611",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-map-and-print-service-patch-8059",
+    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-8-desktop-s-7945",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-data-store-11-1-highly-available-relational-data-store-patch",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-10-9-1-utility-network-and-data-management-patch-7",
+    "http://support.esri.com/en/download/7562",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-6-1-desktop-engine-server-buffering-degenerat-7636",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-add-attachments-in-collector-for-a-7679",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-utility-network-update-subnetwork-pa-7795",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-offline-utility-network-feature-service-patch",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-desktop-engine-server-sql-server-compress-patch-7545",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-postgresql-st-geometry-patch-7923",
+    "https://support.esri.com/en/download/7640",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-workflow-manager-server-11-0-patch-1-8066",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-location-referencing-10-8-1-patch-2-desktop-serv-7941",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-business-analyst-desktop-tls-patch-7676",
+    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-security-2019-update-2-patch-7749",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-engine-server-feature-service-2282",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-8-1-utility-network-patch-10",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-for-server-geocoding-with-suggestions-patch-2285",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-6-1-spatial-analyst-com-7800",
+    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-enterprise-sites-patch-1-7805",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8016",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-geocode-suggestions-leak-patch-7732",
+    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-3-high-availability-patch-2167",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7983",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-4-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8017",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-11-3-distributed-collaboration-quality-patch",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-microsoft-r-windows-r-june-7726",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-5-1-desktop-engine-server-spatial-analyst-zon-7582",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-security-2016-update-2-patch-6418",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-unintended-service-restart-patch-7748",
+    "https://support.esri.com/en/download/7530",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-map-services-definition-query-patch",
+    "https://support.esri.com/en/download/7768",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-server-raster-type-patch-2254",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-10-8-2-general-component-updates-patch",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-5-calculate-field-patch",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-temp-grid-pathname-patch-7893",
+    "http://support.esri.com/download/7482",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-improper-access-control-security-patch-7606",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-print-service-patch-7834",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-10-8-advanced-arcmap-settings-patch-7799",
+    "https://support.esri.com/en/download/7687",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-store-10-6-1-security-update-1-patch-7670",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-10-6-1-general-update-patch-7763",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-layer-definition-query-patch-7489",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-feature-service-sync-general-patch-7598",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-1-production-mapping-topographic-production-service-patch",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-utility-network-and-data-managemen-8045",
+    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-security-2020-update-1-patch-7777",
+    "http://support.esri.com/en/download7527",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-security-2020-update-1-patch-7775",
     "https://support.esri.com/en-us/patches-updates/2026/portal-for-arcgis-web-app-embedded-element-patch",
     "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-linux-security-2016-update-1-patch-2283",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-security-2018-update-1-patch-7625",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7970",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-for-server-geocoding-with-suggestions-patch-2285",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-10-5-1-distributed-collaboration-data-7607",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-engine-10-8-2-general-component-updates-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-text-performance-patch-7708",
-    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-1-patch-3-desktop-s-7854",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-6-1-ortho-mapping-patch-7733",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-3-7884",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-general-geocoding-patch-7718",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-wmts-tiles-misalignmen-2291",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-4-1-publishing-patch-2-7479",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-10-8-1-spatial-analyst-pat-7951",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-geoevent-server-security-update-2021-patch-7895",
-    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-3-1-security-2016-update-1-patch-2289",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-geocoding-service-quality-patch-8082",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7963",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-branch-versioning-data-consistency-patch",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-oracle-data-type-patch-7785",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-engine-server-feature-service-2282",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-utility-network-patch-2-7849",
-    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-10-8-1-general-component-updates-patch",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-data-store-data-integrity-patch-7544",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-geoenrichment-server-map-report-patc-7911",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-custom-spatial-reference-patch-7602",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-10-5-1-desktop-server-nitf-and-ncdrd-quality-pat-7605",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-unintended-service-restart-patch-7748",
-    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-11-1-patch-3",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-security-2022-update-2-patch-8064",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-security-2019-update-2-patch-7745",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-data-store-10-9-postgresql-st-geometry-patch-7922",
-    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-10-6-1-ortho-maker-quality-improvemen-7663",
-    "https://support.esri.com/en-us/patches-updates/2021/arcgis-runtime-local-server-sdk-general-security-patch-7894",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-10-8-advanced-arcmap-settings-patch-7799",
-    "https://support.esri.com/en-us/patches-updates/2020/arcgis-web-adaptor-iis-10-8-1-stability-patch-7855",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7973",
-    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-4-1-for-desktop-engine-server-raster-patch-2-7502",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-security-2022-update-1-patch-8043",
-    "http://support.esri.com/download/7509",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-security-2023-update-1-patch",
+    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-security-2016-update-2-patch-7392",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-hosted-services-restart-patch",
+    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-10-9-mission-manager-patch-1-7907",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-8-1-utility-network-patch-7-8031",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-11-0-deep-learning-studio-patch-8078",
+    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-security-2019-update-1-patch-7701",
+    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-9-desktop-s-7968",
+    "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-parcel-fabric-build-extent-patch-2",
     "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-server-sql-server-mixed-preci-7409",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-knowledge-patch-1-8023",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7969",
-    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-quickcapture-security-patch-8051",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-workflow-manager-server-10-9-1-patch-3-8105",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-workflow-manager-server-10-9-1-patch-for-log4j-8020",
-    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-published-script-to-7665",
-    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-offline-utility-network-feature-service-patch",
-    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-custom-output-fields-for-geocoding-p-7693",
-    "https://support.esri.com/en-us/patches-updates/2022/arcgis-desktop-10-8-2-image-display-for-mosaic-datasets-8019",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-patch-1-windows-linux-7997",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-location-referencing-10-8-1-patch-4-desktop-server-for-arcgis-roads-and-highways-8098",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-5-7933",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-11-5-web-applications-patch",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoenrichment-server-log4j-patch-8026",
+    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-10-8-1-indoors-patch-2-7906",
+    "https://support.esri.com/en/download/7585",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-1-machine-rename-patch-7952",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-server-map-cache-consumption-patch-2197",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-map-and-feature-service-security-2023-update-1-patch",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-branch-versioning-performance-and-consist-7818",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-geoevent-server-10-9-1-patch-4-8100",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-security-update-for-flexera-cve-2016-10395-7521",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-server-spatial-analysis-failure-on-localized-6425",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-6-1-patch-3-8002",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-feature-services-security-patch",
+    "https://support.esri.com/en-us/patches-updates/2026/arcgis-workflow-manager-server-11-3-patch-3",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-print-service-and-text-element-pat-7868",
+    "http://support.esri.com/download/7480",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-8-sql-server-enterprise-7784",
+    "https://support.esri.com/en/download/7587",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-geoprocessing-servi-7639",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-5-utility-network-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-1-patch-1-windows-linux-7998",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-custom-spatial-reference-patch-7602",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-geoevent-server-10-8-1-patch-3-windows-linux-7934",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-10-6-1-enterprise-sites-patch-7658",
+    "http://support.esri.com/download/7488",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-production-mapping-topographic-production-service-patch",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-store-10-6-spatial-reference-patch-7581",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-10-8-2-java-component-updates-patch",
+    "https://support.esri.com/en/download/7706",
+    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-7-desktop-s-7928",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-11-3-map-viewer-http-2-patch",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-9-1-patch-3-windows-linux-8061",
+    "https://support.esri.com/en/ownload7562",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-geocoding-service-performance-patch-7804",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-insights-for-arcgis-create-buffer-7758",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-9-1-utility-network-and-data-management-patch-5",
+    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-home-application-upload-patch-7443",
+    "http://support.esri.com/download/7399",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-business-analyst-desktop-10-8-1-dataset-folder-n-7853",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-4-1-publishing-patch-2-7479",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-security-2023-update-1-patch",
+    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-3-1-high-availability-content-dire-2248",
+    "https://support.esri.com/en/download/7803",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-hosted-feature-service-editing-patch",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-notebook-server-security-patch-7901",
+    "http://support.esri.com/en/download/7526",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-2-knowledge-entity-and-relationship-types-patch",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8013",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-utility-network-and-data-managemen-7990",
+    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-6-desktop-s-7908",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-restore-reliability-patch-7927",
+    "https://support.esri.com/en/download/7712",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-utility-network-patch-7657",
+    "https://support.esri.com/en/download/7714",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7971",
+    "http://support.esri.com/download/7477",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-business-analyst-desktop-historical-traffic-sett-7559",
+    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-10-7-1-enterprise-sites-patch-7759",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7970",
+    "https://support.esri.com/en/download/7769",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7975",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-utility-network-and-data-management-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-service-publishing-patch-7464",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-web-adaptor-iis-10-9-1-large-offline-map-areas-patch",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-location-referencing-10-8-1-patch-3-desktop-serv-7996",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-geoanalytics-and-geoevent-server-pat-7476",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-10-9-1-maritime-server-extension-update-1-8021",
+    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-9-maritime-server-ext-7925",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-video-server-11-3-upgrade-and-reliability-patch",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-utility-network-patch-1-7813",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-10-8-1-spatial-analyst-arc-7866",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-map-service-security-2022-update-1-patch-8042",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-character-marker-symbol-patch-7600",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7974",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-knowledge-temporal-types-patch",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-orphaned-processes-patch-7916",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7965",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-geoanalytics-with-oracle-feature-s-7588",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-5-1-arcfm-join-patch-7601",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-11-1-patch-4",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-4-spatial-analysis-patch",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-1-desktop-engine-server-sql-server-permissi-7529",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-wms-services-display-patch-8108",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-text-performance-patch-7708",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-5-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
+    "https://support.esri.com/en/download/7742",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-1-patch",
+    "https://support.esri.com/en/download/7827",
+    "https://support.esri.com/en/download/7531",
     "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-utility-network-and-data-management-patch-2",
-    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-parcel-fabric-general-maintenan-2198"
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-12-0-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-text-drawing-patch-7719",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7973",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-geoenrichment-server-2019-usa-data-update-patch-7737",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-4-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-1-geoanalytics-server-patch-7519",
+    "http://support.esri.com/download/7423",
+    "https://support.esri.com/en-us/patches-updates/2017/portal-for-arcgis-10-5-1-custom-basemap-extent-patch-7518",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-annotation-layer-performance-improvement-7926",
+    "https://support.esri.com/en/download/7650",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-4-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-directory-traversal-vulnerability-patch-8063",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-print-service-vector-tile-patch-7905",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-csv-and-excel-file-publishing-patc-7738",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-10-9-1-branch-versioning-sap-hana-general-patch",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-gml-wfs-patch-8096",
+    "https://support.esri.com/en-us/patches-updates/2023/portal-for-arcgis-enterprise-sites-security-patch",
+    "http://support.esri.com/download/7481",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-workflow-manager-server-10-9-1-patch-2-8053",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-engine-10-8-2-general-component-updates-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-10-6-1-desktop-server-nitf-and-ncdrd-quality-pat-7703",
+    "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-11-3-utility-network-and-data-management-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-geoenrichment-server-map-report-patc-7911",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-offline-software-authorization-patch",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-image-service-patch-7842",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-data-store-data-integrity-patch-7544",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-interoperability-publishing-patch-7573",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-security-2018-update-3-patch-7660",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-server-raster-type-cumulative-2284",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-general-geocoding-patch-7718",
+    "https://support.esri.com/en/download/7614",
+    "http://support.esri.com/downloads/7480",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-10-7-1-concurrent-use-license-unavailabi-7788",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-sql-server-branch-versioning-patch-7919",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-general-geocoding-patch-7741",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-nitf-and-ncdrd-quality-patch-7762",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-11-1-patch-3",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-quickcapture-security-patch-8051",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-business-analyst-desktop-10-5-1-mpi-cex-custom-d-7567",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-4-1-manager-sharing-properties-patch-7500",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-security-2021-update-1-patch-7879",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-11-2-maritime-server-extension-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-1-mission-manager-message-manage-7833",
+    "http://support.esri.com/download/7424",
+    "https://support.esri.com/en-us/patches-updates/2017/portal-for-arcgis-10-3-1-security-2017-update-3-patch-7470",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-stream-link-pat-7428",
+    "https://support.esri.com/en-us/patches-updates/2021/portal-for-arcgis-operations-dashboard-security-patch-7865",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-server-10-7-1-belge-lambert-1972-equival-7829",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-custom-roles-with-administrative-p-7858",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-engine-server-10-8-1-temp-grid-pathname-7892",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-1-for-desktop-server-legacy-commercial-sate-2268",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-license-manager-2019-0-license-availability-disp-7744",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-sync-upload-patch-7503",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-10-9-1-utility-network-and-data-management-patch-8",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-2-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-10-5-1-parcel-editor-general-maintenance-7597",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-1-setup-program-patch-7956",
+    "https://support.esri.com/en/download/7789",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-2-patch",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-security-2022-update-2-patch-8064",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-web-adaptor-iis-11-1-reliability-update-2-patch",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-desktop-server-sdlic-rollover-licensing-patch-7883",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-parcel-fabric-performance-patch-7816",
+    "https://support.esri.com/en/download/7767",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-data-reviewer-10-8-1-patch-1-for-desktop-server-7856",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-1-utility-network-and-data-management-patch-4",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-raster-patch-7396",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-2-production-mapping-topographic-production-service-patch",
+    "http://support.esri.com/download/7487",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-6-1-ortho-mapping-patch-7733",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-10-9-1-maritime-server-extension-update-5",
+    "https://support.esri.com/en/download/7736",
+    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-patch-1-desktop-ser-7790",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-mission-server-11-1-offline-software-authorization-patch",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-7-1-azure-sql-database-7798",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-11-0-workflow-manager-web-app-patch-8060",
+    "https://support.esri.com/en-us/patches-updates/2022/portal-for-arcgis-log4j-patch-7972",
+    "https://support.esri.com/en/download/7667",
+    "https://support.esri.com/en/download/7793",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-migrate-storage-for-or-2194",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-desktop-10-8-2-enhanced-compression-wavelet-ecw-7991",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-video-server-11-4-import-and-export-site-patch",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-8-1-utility-network-patch-11",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-desktop-10-8-1-edit-session-with-custom-extensio-8087",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-feature-service-performance-patch-7839",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-postgresql-performa-7664",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-8-1-utility-network-patch-8-8072",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-server-sync-with-related-records-patch-2196",
+    "https://support.esri.com/en-us/patches-updates/2026/portal-for-arcgis-11-5-mission-manager-tasking-and-template-patch",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-data-store-10-6-custom-spatial-reference-patch-7613",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-desktop-engine-server-10-7-1-spatial-analyst-com-7828",
+    "http://support.esri.com/download/7510",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-9-1-utility-network-and-data-management-patch-4-8089",
+    "https://support.esri.com/en/download/7596",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-insights-2020-1-update-patch-7796",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-runtime-local-server-sdk-microsoft-r-windows-r-j-7729",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-10-9-1-maritime-server-extension-update-4-8099",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-11-1-maritime-server-extension-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-10-5-1-distributed-collaboration-data-7607",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-geoevent-server-security-update-2021-patch-7895",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-10-6-1-parcel-fabric-layer-patch-7682",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-export-from-hosted-layer-to-file-g-7647",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-10-6-1-pre-planned-routes-patch-7659",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-security-2021-update-2-patch-7937",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-8-1-patch-4-windows-linux-8000",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-10-8-1-java-component-updates-patch",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-4-7918",
+    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-7-1-enterprise-sites-2-patch-7797",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-10-9-1-general-branch-versioning-reconcile-patch",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-server-10-6-1-importing-raster-to-enterp-7673",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-utility-network-and-data-management-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-4-desktop-s-7871",
+    "https://support.esri.com/en/download/7608",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-geoenrichment-server-upgrade-preparation-patch-7761",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-knowledge-patch-1-8023",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-1-desktop-engine-server-oracle-critical-iss-7548",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-1-jpeg-nodata-patch-7641",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-runtime-local-server-sdk-general-security-patch-7894",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-security-2025-update-2-patch",
+    "http://support.esri.com/en/download/7560",
+    "https://support.esri.com/en/download/7604",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-print-service-patch",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-dialog-initialization-performance-patch-7678",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-server-10-5-server-object-interceptor-soi-userna-7499",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-vehicle-routing-problem-geometry-p-7992",
+    "https://support.esri.com/en-us/patches-updates/2016/portal-for-arcgis-10-3-1-security-2016-update-1-patch-2289",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-home-application-display-patch-7615",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-10-6-1-exporting-data-from-a-layer-patch-7683",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-1-desktop-engine-server-spatial-analyst-int-7551",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7982",
+    "https://support.esri.com/en/download/7688",
+    "http://support.esri.com/download/7401",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-map-and-feature-service-security-patch-7873",
+    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-10-desktop-8007",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-geoevent-extension-patch-1-7388",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7985",
+    "http://support.esri.com/en/downloads/patches-servicepacks/view/productid/66/metaid/2271",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-workflow-manager-server-11-2-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-8-1-utility-network-patch-6-7958",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-insights-2020-3-update-patch-7850",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7976",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7963",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-log4j-patch-7977",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-11-0-maritime-server-extension-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-10-8-1-utility-network-patch-9-8090",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8009",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-7-1-csv-and-excel-file-publishing-patc-7786",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-geocoding-gener-7382",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-desktop-engine-server-geocoding-general-mai-2186",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-security-2019-update-1-patch-7700",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-5-desktop-engine-server-raster-to-polygon-and-7493",
+    "https://support.esri.com/en-us/patches-updates/2021/mapping-and-charting-solutions-10-8-1-patch-5-desktop-s-7887",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-engine-server-spatial-statistic-2192",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-scene-service-performance-patch-7731",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-branch-versioning-licensing-patch",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-desktop-engine-server-pdf-export-for-non-us-2183",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-2-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-privilege-escalation-security-patch-7668",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-tls-patch-7666",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-data-store-11-1-knowledge-graph-patch-8103",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-server-10-9-hosted-feature-service-uncompressed-7924",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-10-6-ecw-patch-7583",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-10-6-1-ortho-maker-quality-improvemen-7663",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-insights-security-patch-for-arcgis-insights-2022-1-8104",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8012",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoenrichment-server-log4j-patch-8025",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-desktop-10-8-2-spatial-analyst-slope-tool-patch-8035",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-desktop-10-8-2-java-component-updates-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-enterprise-sites-security-2025-update-1-patch",
+    "https://support.esri.com/en/download/7681",
+    "http://support.esri.com/download/7388",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-workflow-manager-server-11-0-patch-2-8106",
+    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-1-patch-1-desktop-s-7831",
+    "https://support.esri.com/en-us/patches-updates/2020/portal-for-arcgis-10-8-1-arcgis-workforce-general-patch-7825",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-workflow-manager-server-11-3-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-security-2018-update-2-patch-7661",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-2-data-reviewer-patch-1",
+    "https://support.esri.com/en/download/7535",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-10-9-1-maritime-server-extension-update-2-8041",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-buffer-wizard-patch-7649",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-server-10-6-file-deletion-and-loo-7626",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-11-0-site-creation-and-upgrade-patch-8084",
+    "http://support.esri.com/download/7523",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-7-1-raster-analytics-patch-7730",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-for-server-10-3-1-security-2017-update-3-patch-7478",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-3-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-2",
+    "http://support.esri.com/download/7524",
+    "https://support.esri.com/en/download/7623",
+    "https://support.esri.com/en-us/patches-updates/2026/arcgis-12-0-maritime-server-extension-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-branch-versioning-data-consistency-patch",
+    "https://support.esri.com/en-us/patches-updates/2019/portal-for-arcgis-10-7-pop-up-selected-feature-display-7711",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-data-reviewer-10-8-1-patch-2-for-desktop-server-7889",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-for-desktop-engine-server-wmts-tiles-misalignmen-2291",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoenrichment-server-log4j-patch-7999",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-interoperability-for-server-log4j-patch-8015",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-patch-7984",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-geocoding-service-quality-patch-8082",
+    "https://support.esri.com/en-us/patches-updates/2018/portal-for-arcgis-security-2018-update-1-patch-7584",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-mission-manager-location-services-and-projection-patch",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-server-worldview-3-update-patch-2227",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-business-analyst-desktop-address-coder-patch-7739",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-7-network-analyst-vrp-s-7692",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-geoevent-server-10-8-1-patch-5-windows-linux-8055",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-server-11-4-print-service-vector-tile-labels-patch",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-for-linux-microsoft-odbc-driver-17-connec-7642",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-log4j-7981",
+    "http://support.esri.com/download/6431",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-server-10-7-mosaic-dataset-compatibility-7705",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-10-9-1-maritime-server-extension-update-3-8076",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-data-store-10-9-1-durability-enhancement-patch-8057",
+    "https://support.esri.com/en/7629",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-server-10-8-1-geoprocessing-service-orphaned-pro-7840",
+    "https://support.esri.com/en-us/patches-updates/2020/arcgis-web-adaptor-iis-10-8-1-stability-patch-7855",
+    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-patch-2-desktop-ser-7802",
+    "https://support.esri.com/en/download/7564",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-geoprocessing-service-startup-patch-7576",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-server-11-1-map-service-and-custom-data-feeds-patch",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-10-6-1-linux-orthomapping-patch-7699",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8004",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-1-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2017/arcgis-10-4-1-for-desktop-engine-server-mosaic-dataset-7467",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-1-utility-network-and-data-management-patch-3",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-data-store-10-9-reliability-enhancement-patch-7902",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-10-9-1-stale-query-patch-8028",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-notebook-server-security-patch-8010",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-security-2019-update-2-patch-7745",
+    "https://support.esri.com/en/download/7772",
+    "https://support.esri.com/en-us/patches-updates/2024/arcgis-server-11-3-offline-utility-network-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-10-6-1-spatial-analyst-pat-7685",
+    "https://support.esri.com/en/download/7674",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-server-10-6-1-raster-patch-7653",
+    "https://support.esri.com/en-us/patches-updates/2026/arcgis-server-11-5-arcgis-pipeline-referencing-arcgis-roads-and-highways-patch-2",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-web-adaptor-iis-stability-patch",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-server-branch-versioning-duplicate-objectids-pat-7697",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-geoevent-server-10-6-1-patch-1-7689",
+    "https://support.esri.com/en-us/patches-updates/2019/arcgis-desktop-engine-server-support-for-oracle-19c-pat-7734",
+    "https://support.esri.com/en/download/7622",
+    "https://support.esri.com/en-us/patches-updates/2022/mapping-and-charting-solutions-10-8-1-patch-11-desktop-8033",
+    "https://support.esri.com/en/download/7716",
+    "https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-3-patch",
+    "https://support.esri.com/en-us/patches-updates/2020/mapping-and-charting-solutions-10-8-1-patch-2-desktop-s-7843",
+    "https://support.esri.com/en/download/7757",
+    "https://support.esri.com/en-us/patches-updates/2023/arcgis-11-0-maritime-server-extension-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2024/portal-for-arcgis-security-2024-update-2-patch",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-server-security-2018-update-1-patch-7625",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-1-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2021/arcgis-runtime-sdk-for-qt-100-11-ios-app-store-patch-7900",
+    "https://support.esri.com/en/download/7751",
+    "https://support.esri.com/en-us/patches-updates/2025/arcgis-geoevent-server-11-3-patch-1",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-4-1-for-desktop-engine-server-sql-server-qual-7422",
+    "https://support.esri.com/en-us/patches-updates/2018/arcgis-desktop-engine-background-geoprocessing-64-bit-a-7579",
+    "https://support.esri.com/en-us/patches-updates/2016/arcgis-10-3-for-desktop-parcel-fabric-general-maintenan-2198",
+    "https://support.esri.com/en-us/patches-updates/2022/arcgis-server-11-0-deep-learning-patch-8079"
   ]
 }
